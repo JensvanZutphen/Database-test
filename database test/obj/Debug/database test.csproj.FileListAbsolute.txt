@@ -1,0 +1,21 @@
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\database test.exe.config
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\database test.exe
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\database test.pdb
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\EntityFramework.dll
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\Google.Protobuf.dll
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\MySql.Data.dll
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\EntityFramework.xml
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\Google.Protobuf.xml
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\MySql.Data.xml
+C:\Users\Jens\source\repos\database test\database test\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.csprojAssemblyReference.cache
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database_test.Form1.resources
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database_test.Properties.Resources.resources
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.csproj.GenerateResource.cache
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.csproj.CoreCompileInputs.cache
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.csproj.CopyComplete
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.exe
+C:\Users\Jens\source\repos\database test\database test\obj\Debug\database test.pdb
